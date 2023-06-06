@@ -49,13 +49,13 @@ Explanation : Determine the type of support material used, such as soluble suppo
 
 Product in Container :
 
-![image](https://github.com/Sangavi-suresh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118541861/dd9f84a1-e094-489f-ba8c-86da00a2d94b)
+
 
 Explanation : Choose a container that is large enough to accommodate the 3D printed object and allow for complete submersion of the supports. The container should be made of a material that is compatible with the chemical solution you are using. Glass or plastic containers are commonly used for this purpose. Pour the prepared chemical solution into the container until it is sufficiently filled to fully submerge the 3D printed object. Ensure that there is enough solution to cover the support structures entirely. It is essential to work in a well-ventilated area while handling the solution to avoid inhaling any fumes or vapors.Place the 3D printed object in a container or tank filled with the prepared chemical solution. Ensure that the supports are fully submerged, allowing the solution to dissolve them effectively.
 
 Final Product :
 
-![image](https://github.com/Sangavi-suresh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118541861/04c593d2-a462-4279-a87e-b7ffb15d7b78)
+
 
 Explanation : After the supports have dissolved, remove the object from the chemical solution and thoroughly rinse it with clean water. This step helps to remove any remaining traces of the solvent or dissolved support material. It is important to ensure the object is completely dry before proceeding with further post-processing or use.
 
@@ -63,13 +63,13 @@ Explanation : After the supports have dissolved, remove the object from the chem
 
 Part before UV Curing : 
 
-![image](https://github.com/Sangavi-suresh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118541861/ec266095-6ba6-46c7-ae8c-7a33edb87c46)
+
 
 Explanation : Depending on the desired final appearance and quality, additional surface finishing steps may be performed. This can involve techniques such as sanding, filing, or polishing the surface to remove any visible layer lines or imperfections, resulting in a smoother and more refined surface finish.Following the cleaning and surface finishing steps, the printed object may undergo UV curing or post-curing if the material used requires it.
 
 UV Curing Machine :
 
-![image](https://github.com/Sangavi-suresh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118541861/aa7364d5-eeb8-44f1-b050-d170efaf4b26)
+
 
 Explanation : UV curing can be done using a dedicated UV curing chamber or a UV light source. UV curing chambers are designed to evenly expose the printed object to UV light from all sides, ensuring consistent curing. UV light sources can range from handheld UV lamps to specialized UV curing boxes or cabinets. The choice of apparatus will depend on the size of the printed object and the specific UV curing requirements.
 
