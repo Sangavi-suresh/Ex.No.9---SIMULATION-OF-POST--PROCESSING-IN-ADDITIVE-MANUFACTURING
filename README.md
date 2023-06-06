@@ -34,12 +34,61 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+
+Product with Support material :
+
+![image](https://github.com/Sangavi-suresh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118541861/193d1705-53d2-4778-859f-7557372c15df)
+
+Explanation : Examine the 3D printed object and look for areas where support structures were automatically generated. These structures are typically located underneath overhanging or complex parts of the model. They provide temporary support during printing to ensure successful fabrication.Take a closer look at the attachment points where the support structures connect to the main object. These points can be crucial when planning how to remove the supports effectively. Identifying weak points or areas where the supports are less integrated with the main object will help minimize the risk of damaging the printed model.
+
+Container with Chemical :
+
+![image](https://github.com/Sangavi-suresh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118541861/7bee5ee8-a2ca-43e7-9328-455d8dfb612e)
+
+Explanation : Determine the type of support material used, such as soluble supports made from materials like polyvinyl alcohol (PVA). Understanding the support material is crucial in selecting the appropriate chemical solution for removal. Choose a chemical solution that is compatible with the support material. For water-soluble supports like PVA, water is typically used as a solvent. However, other materials may require specific solvents such as isopropyl alcohol (IPA) or proprietary solutions. Dilute the chemical solution according to the manufacturer's instructions, considering factors like concentration and temperature for optimal effectiveness.
+
+Product in Container :
+
+![image](https://github.com/Sangavi-suresh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118541861/dd9f84a1-e094-489f-ba8c-86da00a2d94b)
+
+Explanation : Choose a container that is large enough to accommodate the 3D printed object and allow for complete submersion of the supports. The container should be made of a material that is compatible with the chemical solution you are using. Glass or plastic containers are commonly used for this purpose. Pour the prepared chemical solution into the container until it is sufficiently filled to fully submerge the 3D printed object. Ensure that there is enough solution to cover the support structures entirely. It is essential to work in a well-ventilated area while handling the solution to avoid inhaling any fumes or vapors.Place the 3D printed object in a container or tank filled with the prepared chemical solution. Ensure that the supports are fully submerged, allowing the solution to dissolve them effectively.
+
+Final Product :
+
+![image](https://github.com/Sangavi-suresh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118541861/04c593d2-a462-4279-a87e-b7ffb15d7b78)
+
+Explanation : After the supports have dissolved, remove the object from the chemical solution and thoroughly rinse it with clean water. This step helps to remove any remaining traces of the solvent or dissolved support material. It is important to ensure the object is completely dry before proceeding with further post-processing or use.
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+
+Part before UV Curing : 
+
+![image](https://github.com/Sangavi-suresh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118541861/ec266095-6ba6-46c7-ae8c-7a33edb87c46)
+
+Explanation : Depending on the desired final appearance and quality, additional surface finishing steps may be performed. This can involve techniques such as sanding, filing, or polishing the surface to remove any visible layer lines or imperfections, resulting in a smoother and more refined surface finish.Following the cleaning and surface finishing steps, the printed object may undergo UV curing or post-curing if the material used requires it.
+
+UV Curing Machine :
+
+![image](https://github.com/Sangavi-suresh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118541861/aa7364d5-eeb8-44f1-b050-d170efaf4b26)
+
+Explanation : UV curing can be done using a dedicated UV curing chamber or a UV light source. UV curing chambers are designed to evenly expose the printed object to UV light from all sides, ensuring consistent curing. UV light sources can range from handheld UV lamps to specialized UV curing boxes or cabinets. The choice of apparatus will depend on the size of the printed object and the specific UV curing requirements.
+
+Part in UV Curing Machine :
+
+
+
+
+Explanation : Place the printed object in the UV curing apparatus, ensuring it is properly positioned for uniform exposure to UV light. The curing time will depend on the resin manufacturer's guidelines and the intensity of the UV light source. Typically, exposure times can range from a few minutes to several hours. Refer to the resin manufacturer's instructions for the recommended curing duration.During the UV curing process, monitor the printed object periodically. If the UV light source does not provide uniform exposure, consider rotating or repositioning the object to ensure even curing on all sides. This step helps to prevent potential areas of undercured resin.
+
+Final Part :
+
+
+
+
+
+
+
+
 
 ## Heat Treatment of 3D printed part
 ![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
