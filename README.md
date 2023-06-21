@@ -96,8 +96,22 @@ Final Part :
 
 ## Output:
 
-### Name:
-### Register Number:
+
+
+![241973713-bdb69b8a-8969-4417-8fe3-28b48b77d515](https://github.com/Sangavi-suresh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118541861/ba5cd731-5bf5-432d-a687-9f40d49a4a76)
+
+
+![241973735-2fc5e34a-d576-4f86-ba78-d418d264a0f1](https://github.com/Sangavi-suresh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118541861/17699b51-8abd-4b0b-8df5-39cdfff00aca)
+
+
+![241973771-26284973-4c52-4c9b-9d90-ce355fa475ec](https://github.com/Sangavi-suresh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118541861/709cd0b4-cc3e-4f50-88f5-ddda2f89bde7)
+
+
+
+
+
+### Name: Sangavi S
+### Register Number: 212222230130
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
